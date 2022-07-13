@@ -1,16 +1,29 @@
-### Hi there 👋
+### Hi there, im Francisco Lemos 👋
 
-<!--
-**FranciscoLemos03/FranciscoLemos03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Deloitte.
+- 🌱 I’m currently learning ServiceNow and JavaScript
+- 👨‍🎓 I’m currently studing on Instituto Politecnico do Cávado e do Ave
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+
+### My Skills
+
+<div style="display: inline_block"><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40" style="max-width:100%; margin 0 2px;" /></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40" style="max-width:100%; margin 0 2px;" /></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="CSS" width="40" height="40" style="max-width:100%; margin 0 2px;" /></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40" style="max-width:100%; margin 0 2px;" /></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" style="max-width:100%; margin 0 2px;" /></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="VB" width="40" height="40" style="max-width:100%; margin 0 2px;" /></img>
+</div>
+
+##
+
+### Linkedin
+
+<div style="display: inline_block"><br>
+<a href="https://www.linkedin.com/in/francisco-lemos-461392245/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40" style="max-width:100%; margin 0 2px;" /></img>
+</a>
+</div>
