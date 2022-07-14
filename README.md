@@ -1,9 +1,9 @@
 ### Hi there, im Francisco Lemos 👋
 
-
+- 👱 I’m 19yo.
 - 🔭 I’m currently working on Deloitte.
+- 👨‍🎓 I’m currently studing on Instituto Politecnico do Cávado e do Ave in Computer Science and engineering
 - 🌱 I’m currently learning ServiceNow and JavaScript
-- 👨‍🎓 I’m currently studing on Instituto Politecnico do Cávado e do Ave
 
 ##
 
@@ -17,11 +17,18 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" style="max-width:100%; margin 0 2px;" /></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="VB" width="40" height="40" style="max-width:100%; margin 0 2px;" /></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40" style="max-width:100%; margin 0 2px;" /></img>
+
 </div>
 
 ##
 
-### Linkedin
+<div style="display: inline_block"><br>
+<img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoLemos03&layout=compact&langs_count=16&theme=dark"/>
+</div>
+
+##
+
+### More About me
 
 <div style="display: inline_block"><br>
 <a href="https://www.linkedin.com/in/francisco-lemos-461392245/">
