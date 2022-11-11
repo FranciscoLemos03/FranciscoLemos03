@@ -3,7 +3,7 @@
 - 👱 I’m 19yo.
 - 🔭 I’m currently working on Deloitte.
 - 👨‍🎓 I’m currently studing on Instituto Politecnico do Cávado e do Ave in Computer Science and engineering
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently learning React Native
 - 🌱 Everyday everyday improving JS and Servicenow Administration
 
 ##
@@ -18,6 +18,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" style="max-width:100%; margin 0 2px;" /></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="VB" width="40" height="40" style="max-width:100%; margin 0 2px;" /></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40" style="max-width:100%; margin 0 2px;" /></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg alt="react-native" width="40" height="40" style="max-width:100%; margin 0 2px;" />
+          
 
 </div>
 
