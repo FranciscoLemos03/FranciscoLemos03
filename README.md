@@ -3,7 +3,8 @@
 - 👱 I’m 19yo.
 - 🔭 I’m currently working on Deloitte.
 - 👨‍🎓 I’m currently studing on Instituto Politecnico do Cávado e do Ave in Computer Science and engineering
-- 🌱 I’m currently learning ServiceNow and JavaScript
+- 🌱 I’m currently learning ReactJS
+- 🌱 Everyday everyday improving JS and Servicenow Administration
 
 ##
 
