@@ -26,14 +26,16 @@
 
 <div style="display: inline_block"><br>
 <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoLemos03&layout=compact&langs_count=16&theme=dark"/>
+          
+          ### More About me
+
+          <div style="display: inline_block"><br>
+          <a href="https://www.linkedin.com/in/francisco-lemos-461392245/">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40" style="max-width:100%; margin 0 2px;" /></img>
+          </a>
+          </div>
 </div>
 
 ##
 
-### More About me
 
-<div style="display: inline_block"><br>
-<a href="https://www.linkedin.com/in/francisco-lemos-461392245/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40" style="max-width:100%; margin 0 2px;" /></img>
-</a>
-</div>
