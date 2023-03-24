@@ -1,6 +1,6 @@
 <h1 align="center">Hello World 👋, I'm Francisco Lemos</h1>
 <h3 align="center">A student worker from Portugal</h3>
-<img align="right" alt="coding" width="400" src="https://api.kaltimprov.go.id/img/gifs/think.gif">
+<img align="right" alt="coding" width="400" src="[https://api.kaltimprov.go.id/img/gifs/think.gif](https://codestar.vn/wp-content/uploads/2021/05/Video-Call.gif)">
 
 - 🔭 I’m currently working on [Deloitte](https://www2.deloitte.com/pt/pt.html)
 
