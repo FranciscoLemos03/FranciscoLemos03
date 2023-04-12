@@ -5,7 +5,7 @@
 
 - 👱 I’m **20yo.**
 
-- 👨‍🎓 I’m currently studing on [Instituto Politecnico do Cávado e do Ave in Computer Science and engineering](https://ipca.pt/)
+- 👨‍🎓 I’m currently studing on [Instituto Politecnico do Cávado e do Ave](https://ipca.pt/) in Computer Science and engineering
 
 - 🌱 I’m currently learning **React Native & React JS**
 
