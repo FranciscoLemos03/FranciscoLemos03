@@ -1,7 +1,7 @@
 <h1 align="center">Hello World 👋, I'm Francisco Lemos</h1>
 <h3 align="center">A student worker from Portugal</h3>
 
-- 🔭 I’m currently working on [Deloitte](https://www2.deloitte.com/pt/pt.html)
+- 🔭 I’m currently working on [Deloitte Portugal](https://www2.deloitte.com/pt/pt.html)
 
 - 👱 I’m **20yo.**
 
