@@ -7,7 +7,7 @@
 
 - 👨‍🎓 I’m currently studing on [Instituto Politecnico do Cávado e do Ave](https://ipca.pt/) in Computer Science and engineering
 
-- 🌱 I’m currently learning **React Native & React JS**
+- 🌱 I’m currently improving **React Native & React JS** skills
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
