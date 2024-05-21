@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Deloitte Portugal](https://www2.deloitte.com/pt/pt.html)
 
-- 👱 I’m **20yo.**
+- 👱 I’m **21yo.**
 
 - 👨‍🎓 I’m currently studing on [Instituto Politecnico do Cávado e do Ave](https://ipca.pt/) in Computer Science and engineering
 
