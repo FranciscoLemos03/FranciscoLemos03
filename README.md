@@ -1,15 +1,13 @@
 <h1 align="center">Hello World 👋, I'm Francisco Lemos</h1>
 <h3 align="center">A student worker from Portugal</h3>
 
-- 🔭 I’m currently working on [Deloitte Portugal](https://www2.deloitte.com/pt/pt.html)
+- 🔭 I’m currently working on [Deloitte Portugal](https://www2.deloitte.com/pt/pt.html) as **Servicenow Developer**
 
 - 👱 I’m **21yo.**
 
 - 👨‍🎓 I’m currently studing on [Instituto Politecnico do Cávado e do Ave](https://ipca.pt/) in Computer Science and engineering
 
 - 🌱 I’m currently improving **React Native & React JS** skills
-
-- ⭐ I'm currently working with **Servicenow**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
