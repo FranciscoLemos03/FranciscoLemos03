@@ -37,7 +37,7 @@
 		return CreateMyOwnApp()
  ```
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">My Skills</h3>
 <p>
 
 <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
