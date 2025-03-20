@@ -57,6 +57,7 @@
 <img alt="Pentaho" src="https://img.shields.io/badge/-Pentaho-1565C0?style=flat-square&logo=pentaho&logoColor=white" onclick="return false;" />
 <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" onclick="return false;" />
 <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" onclick="return false;" />
+<img alt="ServiceNow" src="https://img.shields.io/badge/-ServiceNow-0078D4?style=flat-square&logo=servicenow&logoColor=white" onclick="return false;" />
 
 
 </p>
