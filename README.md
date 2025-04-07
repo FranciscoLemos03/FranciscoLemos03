@@ -24,7 +24,6 @@
 		'Workout',
 		'Long Runs',
 		'Tenis',
-		'Gaming',
 		'Read',
 		'Gaming',
 		'Being up all Night chasing that ONE BUG...'
