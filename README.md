@@ -62,6 +62,3 @@ class WhoAmI:
 	
 	def getCountry():
 		return Portugal()
-	
-	def Ambitions():
-		return CreateMyOwnApp()
