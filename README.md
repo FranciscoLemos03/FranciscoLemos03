@@ -15,10 +15,10 @@ class WhoAmI:
 	# Academic Background
 	degrees = [
 		{
-			'program': 'Advanced Technical Course at Technology and IT Innovation',
-			'institution': 'IPCA',
-			'status': 'Completed',
-			'period': 'Sep 2021 - Jul 2023',
+			'program': 'Erasmus+',
+			'institution': 'Technische Universität Wien',
+			'status': 'In Progress',
+			'period': 'Oct 2025 - February 2026',
 		},
 		{
 			'program': 'Bachelor at Computer Science and Engineering',
@@ -27,37 +27,32 @@ class WhoAmI:
 			'period': 'Sep 2023 - Jul 2026',
 		},
 		{
-			'program': 'Erasmus+',
-			'institution': 'Technische Universität Wien',
-			'status': 'In Progress',
-			'period': 'Oct 2025 - February 2026',
+			'program': 'Advanced Technical Course at Technology and IT Innovation',
+			'institution': 'IPCA',
+			'status': 'Completed',
+			'period': 'Sep 2021 - Jul 2023',
 		}
 	]
 
 	# Professional Experience
 	ex_companies = [
 		{
-			'role': 'Web Developer Intern',
-			'company': 'PRIMARIU',
-			'period': 'Sep 2020 - May 2021',
-		},
-		{
 			'role': 'ServiceNow Developer',
 			'company': 'Deloitte',
 			'period': 'Oct 2021 - Jul 2025',
 		},
-		
+		{
+			'role': 'Web Developer Intern',
+			'company': 'PRIMARIU',
+			'period': 'Sep 2020 - May 2021',
+		}
 	]
 
 	hobbies = [
-		'Travel',
 		'Hiking',
-		'Workout',
-		'Long Runs',
+		'Running',
 		'Tennis',
 		'Read',
-		'Gaming',
-		'Being up all Night chasing that ONE BUG...'
 	]
 	
 	def getCountry():
