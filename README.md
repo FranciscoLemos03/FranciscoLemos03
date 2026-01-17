@@ -9,8 +9,8 @@ class WhoAmI:
 
 	user = 'Francisco Lemos'
 	age = 22
-	current_work = 'Student'
-	company = ''
+	current_work = 'Programmer'
+	company = 'Deloitte'
 
 	# Academic Background
 	degrees = [
@@ -36,6 +36,11 @@ class WhoAmI:
 
 	# Professional Experience
 	ex_companies = [
+		{
+			'role': 'ServiceNow Developer',
+			'company': 'Deloitte',
+			'period': 'Fev 2026 - ...',
+		},
 		{
 			'role': 'ServiceNow Developer',
 			'company': 'Deloitte',
