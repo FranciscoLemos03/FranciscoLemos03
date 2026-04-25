@@ -17,7 +17,7 @@ class WhoAmI:
 		{
 			'program': 'Erasmus+',
 			'institution': 'Technische Universität Wien',
-			'status': 'In Progress',
+			'status': 'Completed',
 			'period': 'Oct 2025 - February 2026',
 		},
 		{
